@@ -1,0 +1,36 @@
+# YAML 1.2
+---
+authors:
+  -
+    affiliation: "Delft University of Technology"
+    family-names: Hut
+    given-names: Rolf
+    orcid: "https://orcid.org/0000-0002-5697-5697"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Drost
+    given-names: Niels
+    orcid: "https://orcid.org/0000-0001-9795-7981"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Kalverla
+    given-names: Peter
+    orcid: "https://orcid.org/0000-0002-5025-7862"
+  -
+    affiliation: "Delft University of Technology"
+    family-names: Aerts
+    given-names: Jerom
+    orcid: "https://orcid.org/0000-0003-0157-4818"
+cff-version: "1.0.0"
+keywords:
+  - software publications
+  - peer review
+license: "Apache-2.0"
+message: "If you use this checklist, please cite it using these metadata."
+repository-code: "https://github.com/eWaterCycle/ReviewOfSoftwarePublicationChecklist/"
+title: On the difficulties in reviewing academic software papers in the earth sciences: a helpful checklist
+identifiers:
+  - description: Latest version of software
+    type: doi
+    value: "xxx"
+...
