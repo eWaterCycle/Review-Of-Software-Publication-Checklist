@@ -28,7 +28,7 @@ keywords:
 license: "Apache-2.0"
 message: "If you use this checklist, please cite it using these metadata."
 repository-code: "https://github.com/eWaterCycle/ReviewOfSoftwarePublicationChecklist/"
-title: On the difficulties in reviewing academic software papers in the earth sciences: a helpful checklist
+title: "On the difficulties in reviewing academic software papers in the earth sciences: a helpful checklist"
 identifiers:
   - description: Latest version of software
     type: doi
