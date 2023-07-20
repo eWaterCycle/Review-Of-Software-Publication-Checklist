@@ -26,6 +26,9 @@ authors:
     family-names: Aerts
     given-names: Jerom
     orcid: 'https://orcid.org/0000-0003-0157-4818'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8168785
 repository-code: >-
   https://github.com/eWaterCycle/ReviewOfSoftwarePublicationChecklist/
 abstract: >-
